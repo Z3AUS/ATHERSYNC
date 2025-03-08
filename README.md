@@ -1,69 +1,64 @@
-# Welcome to your Lovable project
+# **AtherSync – AI SaaS Innovations & Product Lineup**
 
-## Project info
+## 🚀 Overview
 
-**URL**: https://lovable.dev/projects/711b4a93-6c95-4fd6-a5d5-f92f6a8f2e09
+AtherSync is an **AI SaaS company** specializing in **AI-driven automation** for **Retail, Fitness, and Software Development**. Our mission is to **revolutionize industries** with **AI-powered automation, machine learning, and real-time analytics**.
 
-## How can I edit this code?
+This repository contains:
+- **QwikPay – AI Self-Checkout System**
+- **SPOTR – AI Gym Assistant**
+- **SLM – Small Language Models for Developers**
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 📌 Table of Contents
+- [QwikPay – AI Self-Checkout System](#qwikpay--ai-self-checkout-system)
+- [SPOTR – AI Gym Assistant](#spotr--ai-gym-assistant)
+- [SLM – Small Language Models for Developers](#slm--small-language-models-for-developers)
+- [Tech Stack](#-tech-stack)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Contributing](#-contributing)
+- [License](#-license)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/711b4a93-6c95-4fd6-a5d5-f92f6a8f2e09) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🛒 QwikPay – AI Self-Checkout System
 
-**Use your preferred IDE**
+**QwikPay** is an **AI-powered, QR-based checkout system** that eliminates **manual billing queues**, reduces **operational costs**, and enhances **security with AI-driven fraud detection**.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### ✨ Features:
+- **Scan & Pay:** QR-based product scanning for seamless checkout.
+- **AI Fraud Detection:** Real-time verification of scanned products.
+- **UPI & Digital Payments:** Supports **Apple Pay, Google Pay, and UPI integration**.
+- **Retail Insights:** AI-driven analytics for store optimization.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 🛠 Tech Stack:
+- **Frontend:** React.js (TypeScript), Vite, ShadCN/UI, Tailwind CSS
+- **Backend:** Supabase (Auth & Database), Google Sheets API
+- **QR Management:** Web-based QR scanning
+- **Security:** AI-powered fraud detection
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🏋️ SPOTR – AI Gym Assistant
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+**SPOTR** is an **AI-powered fitness assistant** that **tracks workouts, corrects form, and provides real-time coaching**.
 
-# Step 3: Install the necessary dependencies.
-npm i
+### ✨ Features:
+- **MoveNet AI:** Motion tracking for real-time form correction.
+- **AI Coaching:** LLM-driven chatbot for interactive workout guidance.
+- **Voice Feedback:** Integrated with **HeyGen & ElevenLabs** for AI-driven voice coaching.
+- **Personalized Workouts:** AI-adaptive training suggestions.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## 🤖 SLM – Small Language Models for Developers
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+AtherSync has developed **AI-powered Small Language Models (SLMs)** tailored for **Python, MERN, and MEAN stack development**.
 
-**Use GitHub Codespaces**
+### ✨ Features:
+- **Automated Debugging:** AI detects and fixes common coding errors.
+- **Project Optimization:** AI suggests best practices & efficiency improvements.
+- **Custom AI Models:** Trained for **Python, JavaScript (MERN/MEAN) development**.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/711b4a93-6c95-4fd6-a5d5-f92f6a8f2e09) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
